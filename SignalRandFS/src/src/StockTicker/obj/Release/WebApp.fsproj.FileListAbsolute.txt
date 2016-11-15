@@ -41,3 +41,6 @@ C:\Demo\FS-SignalR\src\StockTicker\bin\FSharp.Core.xml
 C:\Demo\FS-SignalR\src\StockTicker\obj\Release\WebApp.fsprojResolveAssemblyReference.cache
 C:\Demo\FS-SignalR\src\StockTicker\obj\Release\WebApp.dll
 C:\Demo\FS-SignalR\src\StockTicker\obj\Release\WebApp.pdb
+C:\tst\Presentations\SignalRandFS\src\src\StockTicker\obj\Release\WebApp.fsprojResolveAssemblyReference.cache
+C:\tst\Presentations\SignalRandFS\src\src\StockTicker\obj\Release\WebApp.dll
+C:\tst\Presentations\SignalRandFS\src\src\StockTicker\obj\Release\WebApp.pdb

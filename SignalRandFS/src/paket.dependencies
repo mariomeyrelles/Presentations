@@ -9,3 +9,4 @@ nuget FAKE
 nuget SourceLink.Fake
 
 github fsharp/FAKE modules/Octokit/Octokit.fsx
+github nwolverson/signalrprovider

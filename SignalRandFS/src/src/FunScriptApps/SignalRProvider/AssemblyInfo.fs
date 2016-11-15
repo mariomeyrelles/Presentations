@@ -1,7 +1,7 @@
 ﻿namespace System
 open System.Reflection
 
-[<assembly: AssemblyTitleAttribute("SignalRProviderRuntime")>]
+[<assembly: AssemblyTitleAttribute("SignalRProvider")>]
 [<assembly: AssemblyProductAttribute("FSFastWeb")>]
 [<assembly: AssemblyDescriptionAttribute("FSharp samples in the Web")>]
 [<assembly: AssemblyVersionAttribute("1.0.0")>]
